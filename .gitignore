@@ -1,1 +1,3 @@
 dados.json
+.venv/
+__pycache__/
